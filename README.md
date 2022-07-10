@@ -17,13 +17,13 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" />
 
 - 🔭 I’m currently working on [Capitron](https://www.capitronbank.mn/)
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Web Development**
 - 👨‍💻 All of my projects are available at [https://github.com/Dakiee](https://github.com/Dakiee)
 - 📫 How to reach me **ldavaanyam@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/давааням'л" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="давааням'л" height="30" width="40" /></a>
-<a href="https://fb.com/двнм'л" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="двнм'л" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100022653698470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="двнм'л" height="30" width="40" /></a>
 <a href="https://instagram.com/davaanyamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davaanyamm" height="30" width="40" /></a>
 <a href="https://discord.gg/Dakie#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dakie#0001" height="30" width="40" /></a>
 </p>
