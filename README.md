@@ -14,7 +14,7 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
 
 - 🔭 I’m currently working on [Capitron](https://www.capitronbank.mn/)
 - 🌱 I’m currently learning **web development**
@@ -28,7 +28,7 @@
 <a href="https://discord.gg/Dakie#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dakie#0001" height="30" width="40" /></a>
 </p>
 
-<img src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
