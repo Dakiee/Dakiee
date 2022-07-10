@@ -98,7 +98,7 @@ class About extends Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- <h2> 📊 Github Stats ....</h2>
+ <h2> 📊 Github Stats </h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dakiee&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakiee&theme=solarized_dark">
@@ -199,15 +199,6 @@ class About extends Me
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 My Github Stats
-
-<p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=Dakiee&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Dakiee&theme=algolia" />
-</p>
-
-
 
 ## ❤ Views and Followers
 
