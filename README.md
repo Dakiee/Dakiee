@@ -14,7 +14,7 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="http://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" />
 
 - 🔭 I’m currently working on [Capitron](https://www.capitronbank.mn/)
 - 🌱 I’m currently learning **web development**
