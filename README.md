@@ -128,12 +128,6 @@ class About extends Me
       <br>CSS3
     </td>
      <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
       <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
@@ -154,6 +148,12 @@ class About extends Me
   </tr>
 
   <tr>
+	  <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
@@ -205,6 +205,12 @@ class About extends Me
       </a>
       <br>Thunder Client
 	   </td>
+	   <td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Postman
+    </td>
   </tr>
 </table>
 
