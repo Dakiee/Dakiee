@@ -175,7 +175,7 @@ class About extends Me
     </td>
 	  <td align="center" width="96">
       <a href="#mongodb">
-        <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="48" height="48" alt="Mysql" />
+        <img src="https://www.christophermallory.com/wp-content/uploads/2018/01/mongodb.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>Mongo DB
     </td>
