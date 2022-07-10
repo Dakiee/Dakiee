@@ -145,6 +145,12 @@ class About extends Me
       </a>
       <br>Vue JS
     </td>
+	  <td align="center" width="96">
+      <a href="#nextjs">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Next JS
+    </td>
   </tr>
 
   <tr>
@@ -197,7 +203,7 @@ class About extends Me
       <a href="#thunderclient" >
         <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.16.5/1655311298621/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Git" />
       </a>
-      <br>Postman
+      <br>Thunder Client
     </td>
   </tr>
 </table>
