@@ -9,13 +9,10 @@
 
 </br> 
 
-<p align="center"><img width="25%" height="auto" src="https://64.media.tumblr.com/8139ee3200506609c6cf85d18eb91527/tumblr_mfzc38CdJr1rdjeoao1_400.gif"/></p>
-<!-- <a href="#" align="center"><img width="50%" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="margin: 0 auto;"/></a> -->
-<!-- <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<p align="center"><img src="https://i.pinimg.com/originals/0c/2a/e9/0c2ae9fb393311e13a11ea8fbbf4dd5b.gif"></p>
 
 </br>
-
-<img src="https://i.pinimg.com/originals/0c/2a/e9/0c2ae9fb393311e13a11ea8fbbf4dd5b.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
