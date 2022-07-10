@@ -16,14 +16,17 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
->✔  I’m currently learning Everything related with software engineering .. <br>
-✔  All of my projects are available at https://github.com/jackere1 <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@Энх Болд](https://www.facebook.com/pagenotrespond) <br>
-                         &nbsp; &nbsp; * [Email-@JacKeR*](jackerenh@gmail.com) <br>
-✔  Status: junior/newbie <br>
-✔  Interest: Video games <br>
-✔  Don't expect too much from me xD <br>
-
+- 🔭 I’m currently working on [Capitron](https://www.capitronbank.mn/)
+- 🌱 I’m currently learning **web development**
+- 👨‍💻 All of my projects are available at [https://github.com/Dakiee](https://github.com/Dakiee)
+- 📫 How to reach me **ldavaanyam@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/давааням'л" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="давааням'л" height="30" width="40" /></a>
+<a href="https://fb.com/двнм'л" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="двнм'л" height="30" width="40" /></a>
+<a href="https://instagram.com/davaanyamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davaanyamm" height="30" width="40" /></a>
+<a href="https://discord.gg/Dakie#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dakie#0001" height="30" width="40" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
