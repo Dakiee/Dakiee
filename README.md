@@ -9,7 +9,7 @@
 
 </br> 
 
-<p align="center"><img src="https://i.pinimg.com/originals/0c/2a/e9/0c2ae9fb393311e13a11ea8fbbf4dd5b.gif"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/70/ca/f1/70caf1d4cc2f198979bf3e4a82ec153a.gif"></p>
 
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -214,9 +214,9 @@ class About extends Me
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=Dakiee&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
-<h2 align='center'>Au revoir❤</h2>
+<h2 align='center'>Adiós mis amigos👋</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91013518/177373650-f952ea3e-a9d2-4db9-bb31-5358009ace33.gif" width="25%" height="auto">
+  <img src="https://i.pinimg.com/originals/0c/2a/e9/0c2ae9fb393311e13a11ea8fbbf4dd5b.gif" width="25%" height="auto">
 </p>	
  
 <br>
