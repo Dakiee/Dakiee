@@ -14,7 +14,7 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="http://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif" />
 
 - 🔭 I’m currently working on [Capitron](https://www.capitronbank.mn/)
 - 🌱 I’m currently learning **web development**
@@ -33,7 +33,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/jackere1"><img alt="jacker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jackere1&custom_title=jackere1's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Dakiee"><img alt="Dakie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dakiee&custom_title=Dakiee's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
