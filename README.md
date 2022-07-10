@@ -210,8 +210,7 @@ class About extends Me
         <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.16.5/1655311298621/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Git" />
       </a>
       <br>Thunder Client
-    </td>
-	   a
+	   </td>
   </tr>
 </table>
 
