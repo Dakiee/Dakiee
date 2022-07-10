@@ -177,7 +177,7 @@ class About extends Me
       <a href="#mongodb">
         <img src="https://www.christophermallory.com/wp-content/uploads/2018/01/mongodb.png" width="48" height="48" alt="Mongo DB" />
       </a>
-      <br>Mongo DB
+      <br>Mongo
     </td>
   </tr>
    <tr>
@@ -211,6 +211,7 @@ class About extends Me
       </a>
       <br>Thunder Client
     </td>
+	   a
   </tr>
 </table>
 
