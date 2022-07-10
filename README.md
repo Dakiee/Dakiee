@@ -1,10 +1,10 @@
 <h1 align="center">
- 👋 Bonsoir, I'm William "JacKeR*" Moriarty!
+  Halo 👋, I'm Dakie ;>
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Junior+Engineer;Backend+Developer;Vanilla+Dude" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Junior+Engineer;Backend+Developer;Frameworker+Dude > 
 </p>
 
 </br> 
@@ -15,7 +15,7 @@
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.pinimg.com/originals/0c/2a/e9/0c2ae9fb393311e13a11ea8fbbf4dd5b.gif">
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
