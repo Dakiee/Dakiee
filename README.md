@@ -17,7 +17,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" />
 
 - 🔭 I’m currently working on [Capitron](https://www.capitronbank.mn/)
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **ML & DP**
 - 👨‍💻 All of my projects are available at [https://github.com/Dakiee](https://github.com/Dakiee)
 - 📫 How to reach me **ldavaanyam@gmail.com**
 <h3 align="left">Connect with me:</h3>
